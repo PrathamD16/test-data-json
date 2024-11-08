@@ -1,0 +1,310 @@
+{
+    "doctors": [
+        {
+            "did": 1,
+            "name": "Dr. John Smith",
+            "contact": 1234567890,
+            "email": "john.smith@example.com",
+            "speciality": "Cardiology",
+            "starttime": "09:00:00",
+            "endtime": "17:00:00",
+            "password": "password123",
+            "location": "New York, NY",
+            "experience": 10
+        },
+        {
+            "did": 2,
+            "name": "Dr. Emily Johnson",
+            "contact": 2345678901,
+            "email": "emily.johnson@example.com",
+            "speciality": "Dermatology",
+            "starttime": "10:00:00",
+            "endtime": "18:00:00",
+            "password": "securepass456",
+            "location": "Los Angeles, CA",
+            "experience": 8
+        },
+        {
+            "did": 3,
+            "name": "Dr. Michael Williams",
+            "contact": 3456789012,
+            "email": "michael.williams@example.com",
+            "speciality": "Orthopedics",
+            "starttime": "08:00:00",
+            "endtime": "16:00:00",
+            "password": "mypassword789",
+            "location": "Chicago, IL",
+            "experience": 12
+        },
+        {
+            "did": 4,
+            "name": "Dr. Sarah Brown",
+            "contact": 4567890123,
+            "email": "sarah.brown@example.com",
+            "speciality": "Pediatrics",
+            "starttime": "09:30:00",
+            "endtime": "17:30:00",
+            "password": "testpass101",
+            "location": "Houston, TX",
+            "experience": 5
+        },
+        {
+            "did": 5,
+            "name": "Dr. David Jones",
+            "contact": 5678901234,
+            "email": "david.jones@example.com",
+            "speciality": "General Practice",
+            "starttime": "08:00:00",
+            "endtime": "14:00:00",
+            "password": "doctorpass202",
+            "location": "Phoenix, AZ",
+            "experience": 15
+        },
+        {
+            "did": 6,
+            "name": "Dr. Jennifer Garcia",
+            "contact": 6789012345,
+            "email": "jennifer.garcia@example.com",
+            "speciality": "Neurology",
+            "starttime": "11:00:00",
+            "endtime": "19:00:00",
+            "password": "pass456doctor",
+            "location": "Philadelphia, PA",
+            "experience": 7
+        },
+        {
+            "did": 7,
+            "name": "Dr. William Martinez",
+            "contact": 7890123456,
+            "email": "william.martinez@example.com",
+            "speciality": "Oncology",
+            "starttime": "09:00:00",
+            "endtime": "17:00:00",
+            "password": "secure789",
+            "location": "San Antonio, TX",
+            "experience": 9
+        },
+        {
+            "did": 8,
+            "name": "Dr. Linda Hernandez",
+            "contact": 8901234567,
+            "email": "linda.hernandez@example.com",
+            "speciality": "Psychiatry",
+            "starttime": "10:00:00",
+            "endtime": "18:00:00",
+            "password": "password321",
+            "location": "San Diego, CA",
+            "experience": 6
+        },
+        {
+            "did": 9,
+            "name": "Dr. Charles Lee",
+            "contact": 9012345678,
+            "email": "charles.lee@example.com",
+            "speciality": "Endocrinology",
+            "starttime": "08:30:00",
+            "endtime": "16:30:00",
+            "password": "mypassword456",
+            "location": "Dallas, TX",
+            "experience": 11
+        },
+        {
+            "did": 10,
+            "name": "Dr. Patricia Walker",
+            "contact": 1234567891,
+            "email": "patricia.walker@example.com",
+            "speciality": "Gastroenterology",
+            "starttime": "09:00:00",
+            "endtime": "15:00:00",
+            "password": "doctorpass303",
+            "location": "San Jose, CA",
+            "experience": 14
+        }
+    ],
+    "patients": [
+        [
+            {
+                "pid": 1,
+                "name": "Alice Johnson",
+                "contact": 9876543210,
+                "email": "alice.johnson@example.com",
+                "gender": "Female",
+                "dob": "1990-05-15",
+                "password": "password123"
+            },
+            {
+                "pid": 2,
+                "name": "Bob Smith",
+                "contact": 8765432109,
+                "email": "bob.smith@example.com",
+                "gender": "Male",
+                "dob": "1985-08-20",
+                "password": "securepass456"
+            },
+            {
+                "pid": 3,
+                "name": "Catherine Lee",
+                "contact": 7654321098,
+                "email": "catherine.lee@example.com",
+                "gender": "Female",
+                "dob": "1992-12-30",
+                "password": "mypassword789"
+            },
+            {
+                "pid": 4,
+                "name": "David Brown",
+                "contact": 6543210987,
+                "email": "david.brown@example.com",
+                "gender": "Male",
+                "dob": "1978-03-10",
+                "password": "testpass101"
+            },
+            {
+                "pid": 5,
+                "name": "Eva Green",
+                "contact": 5432109876,
+                "email": "eva.green@example.com",
+                "gender": "Female",
+                "dob": "1995-11-22",
+                "password": "doctorpass202"
+            },
+            {
+                "pid": 6,
+                "name": "Frank Wilson",
+                "contact": 4321098765,
+                "email": "frank.wilson@example.com",
+                "gender": "Male",
+                "dob": "1988-07-05",
+                "password": "pass456patient"
+            },
+            {
+                "pid": 7,
+                "name": "Grace Taylor",
+                "contact": 3210987654,
+                "email": "grace.taylor@example.com",
+                "gender": "Female",
+                "dob": "1980-01-15",
+                "password": "secure789"
+            },
+            {
+                "pid": 8,
+                "name": "Henry Martinez",
+                "contact": 2109876543,
+                "email": "henry.martinez@example.com",
+                "gender": "Male",
+                "dob": "1996-09-25",
+                "password": "password321"
+            },
+            {
+                "pid": 9,
+                "name": "Isabella Hernandez",
+                "contact": 1098765432,
+                "email": "isabella.hernandez@example.com",
+                "gender": "Female",
+                "dob": "1993-02-14",
+                "password": "mypassword456"
+            },
+            {
+                "pid": 10,
+                "name": "Jack Robinson",
+                "contact": 9876543212,
+                "email": "jack.robinson@example.com",
+                "gender": "Male",
+                "dob": "1982-06-28",
+                "password": "patientpass303"
+            }
+        ]
+    ],
+    "appointments": [
+        {
+            "aid": 1,
+            "did": 1,
+            "pid": 1,
+            "slot": "09:00-09:30",
+            "date": "2024-11-10",
+            "cost": 100,
+            "status": "approved"
+        },
+        {
+            "aid": 2,
+            "did": 2,
+            "pid": 2,
+            "slot": "10:00-10:30",
+            "date": "2024-11-11",
+            "cost": 150,
+            "status": "pending"
+        },
+        {
+            "aid": 3,
+            "did": 3,
+            "pid": 3,
+            "slot": "11:00-11:30",
+            "date": "2024-11-12",
+            "cost": 200,
+            "status": "approved"
+        },
+        {
+            "aid": 4,
+            "did": 4,
+            "pid": 4,
+            "slot": "14:00-14:30",
+            "date": "2024-11-13",
+            "cost": 120,
+            "status": "rejected"
+        },
+        {
+            "aid": 5,
+            "did": 5,
+            "pid": 5,
+            "slot": "15:00-15:30",
+            "date": "2024-11-14",
+            "cost": 180,
+            "status": "pending"
+        },
+        {
+            "aid": 6,
+            "did": 6,
+            "pid": 6,
+            "slot": "09:30-10:00",
+            "date": "2024-11-15",
+            "cost": 220,
+            "status": "approved"
+        },
+        {
+            "aid": 7,
+            "did": 7,
+            "pid": 7,
+            "slot": "11:30-12:00",
+            "date": "2024-11-16",
+            "cost": 130,
+            "status": "pending"
+        },
+        {
+            "aid": 8,
+            "did": 8,
+            "pid": 8,
+            "slot": "13:00-13:30",
+            "date": "2024-11-17",
+            "cost": 140,
+            "status": "rejected"
+        },
+        {
+            "aid": 9,
+            "did": 9,
+            "pid": 9,
+            "slot": "14:30-15:00",
+            "date": "2024-11-18",
+            "cost": 160,
+            "status": "approved"
+        },
+        {
+            "aid": 10,
+            "did": 10,
+            "pid": 10,
+            "slot": "16:00-16:30",
+            "date": "2024-11-19",
+            "cost": 190,
+            "status": "pending"
+        }
+    ]    
+}
